@@ -1,0 +1,17 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image:url(http://www.astronomos.org/wp-content/uploads/2010/03/Puede-un-planeta-salirse-de-su-%C3%B3rbita.jpg);
+    background-repeat: repeat;
+    color: white;
+}
+
+nav
+{
+    background-color: white;
+    padding: 0px;
+    color:#68b4f2;
+}
